@@ -1,0 +1,41 @@
+.error-alert{
+    color: tomato;
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+}
+.error-input{
+    border-color: tomato;
+    background-color: rgb(252, 178, 166);
+}
+.inputStyle{
+    display: flex;
+    flex-direction: column;
+    padding: 3px;
+}
+form{
+    width: 400px;
+    height: 300px;
+    background-color: #cfcaca;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+form label {
+    margin-left: 38px;
+}
+form input{
+    width: 80%;
+    height: 30px;
+    margin: auto;
+}
+.submit{
+   display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
